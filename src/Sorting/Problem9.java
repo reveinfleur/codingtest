@@ -37,7 +37,7 @@ public class Problem9 {
             else {
                 lt = mid+1;
             }
-        }//DFFD 2c
+        }//DFFD 2c 3c
 
 
         return answer;
